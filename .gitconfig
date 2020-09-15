@@ -1,0 +1,11 @@
+[user]
+	name = Himanshu Tank
+	email = himanshutank75@gmail.com
+[color]
+	ui = auto
+[log]
+	date = relative
+[format]
+	pretty = format:%C(yellow)%h %Cblue%>(12)%ad %Cgreen%<(7)%aN%Cred%d %Creset%s
+[core]
+	pager = diff-so-fancy | less --tabs=4 -RFX
